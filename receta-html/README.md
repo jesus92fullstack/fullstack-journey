@@ -10,6 +10,3 @@ Este proyecto es parte de mi camino de aprendizaje en **FreeCodeCamp**. El objet
 ## 🛠️ Tecnologías utilizadas
 - HTML5
 - CSS3 (próximamente)
-
-## 📝 Notas
-He elegido la receta de [Nombre de tu receta aquí] para este ejercicio.
