@@ -10,3 +10,4 @@ Puedes ver mis prácticas en vivo aquí:
 * 👉 [Ver mi página de librería](https://jesus92fullstack.github.io/fullstack-journey/libreria-html/)
 * 👉 [Ver mi Agencia de Viajes](https://jesus92fullstack.github.io/fullstack-journey/agencia-html/)
 * 👉 [Ver mi Reproductor de canciones](https://jesus92fullstack.github.io/fullstack-journey/player-html/)
+* 👉 [Ver mi Reproductor de Video](https://jesus92fullstack.github.io/fullstack-journey/player-video-html/)
