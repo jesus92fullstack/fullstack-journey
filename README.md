@@ -13,3 +13,4 @@ Puedes ver mis prácticas en vivo aquí:
 * 👉 [Ver mi Reproductor de Video](https://jesus92fullstack.github.io/fullstack-journey/5-player-video-html/)
 * 👉 [Ver mi Reproductor de Video y Audio](https://jesus92fullstack.github.io/fullstack-journey/6-player-multimedia-html/)
 * 👉 [Ver mi Reproductor con iFrame](https://jesus92fullstack.github.io/fullstack-journey/7-iframe-video-html/)
+* [Ejercicio 8: Compilación de Vídeos sobre Éxito en Programación](./8-compilacion-videos-html/index.html)
