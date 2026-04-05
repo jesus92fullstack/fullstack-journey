@@ -6,13 +6,13 @@ Repositorio dedicado a mi formación técnica. Contiene ejercicios resueltos de 
 
 Puedes ver mis prácticas en vivo aquí:
 
-* 👉 [Ver mi Receta de Tortilla de Patatas](https://jesus92fullstack.github.io/fullstack-journey/1-receta-html/)
-* 👉 [Ver mi página de librería](https://jesus92fullstack.github.io/fullstack-journey/2-libreria-html/)
-* 👉 [Ver mi Agencia de Viajes](https://jesus92fullstack.github.io/fullstack-journey/3-agencia-html/)
-* 👉 [Ver mi Reproductor de canciones](https://jesus92fullstack.github.io/fullstack-journey/4-player-html/)
-* 👉 [Ver mi Reproductor de Video](https://jesus92fullstack.github.io/fullstack-journey/5-player-video-html/)
-* 👉 [Ver mi Reproductor de Video y Audio](https://jesus92fullstack.github.io/fullstack-journey/6-player-multimedia-html/)
-* 👉 [Ver mi Reproductor con iFrame](https://jesus92fullstack.github.io/fullstack-journey/7-iframe-video-html/)
-* [Ejercicio 8: Compilación de Vídeos sobre Éxito en Programación](./8-compilacion-videos-html/index.html)
-* [Ejercicio 9: Construir una Lista de Navegadores Web Principales](./9-lista-descripcion-html/index.html)
+* 👉 [Ver mi Receta de Tortilla de Patatas](https://jesus92fullstack.github.io/fullstack-journey/01-receta-html/)
+* 👉 [Ver mi página de librería](https://jesus92fullstack.github.io/fullstack-journey/02-libreria-html/)
+* 👉 [Ver mi Agencia de Viajes](https://jesus92fullstack.github.io/fullstack-journey/03-agencia-html/)
+* 👉 [Ver mi Reproductor de canciones](https://jesus92fullstack.github.io/fullstack-journey/04-player-html/)
+* 👉 [Ver mi Reproductor de Video](https://jesus92fullstack.github.io/fullstack-journey/05-player-video-html/)
+* 👉 [Ver mi Reproductor de Video y Audio](https://jesus92fullstack.github.io/fullstack-journey/06-player-multimedia-html/)
+* 👉 [Ver mi Reproductor con iFrame](https://jesus92fullstack.github.io/fullstack-journey/07-iframe-video-html/)
+* [Ejercicio 8: Compilación de Vídeos sobre Éxito en Programación](./08-compilacion-videos-html/)
+* [Ejercicio 9: Construir una Lista de Navegadores Web Principales](./09-lista-descripcion-html/)
 * [Ejercicio 10: Elementos de Cita en HTML](./10-blockquotes-html/) 
