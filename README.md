@@ -17,3 +17,4 @@ Puedes ver mis prácticas en vivo aquí:
 * [Ejercicio 9: Construir una Lista de Navegadores Web Principales](https://jesus92fullstack.github.io/fullstack-journey/09-lista-descripcion-html/)
 * [Ejercicio 10: Elementos de Cita en HTML](https://jesus92fullstack.github.io/fullstack-journey/10-blockquotes-html/) 
 * 👉 Ver mi Blog de Gatos (HTML Semántico) (https://jesus92fullstack.github.io/fullstack-journey/11-blog-gatos-semantico)
+* 👉 [Ver mi Centro de Eventos](https://jesus92fullstack.github.io/fullstack-journey/12-event-hub-html/)
